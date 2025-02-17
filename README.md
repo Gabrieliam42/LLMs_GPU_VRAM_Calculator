@@ -12,6 +12,12 @@
 
 - `pandas`
 
+<br><br>
+
+
+
+<br><br>
+
 
 VRAM Requirements for Different Precisions
 
