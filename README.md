@@ -13,7 +13,7 @@ LLMs VRAM Requirements Calculator
 - `pandas`
 
 
-VRAM Requirements for Different Precisions
+* VRAM Requirements for Different Precisions
 
 When using different precision levels, the memory required per parameter varies:
 
