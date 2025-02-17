@@ -1,6 +1,6 @@
-## LLMs_VRAM_Calculator
+## LLMs_GPU_VRAM_Calculator
 
-##### This script calculates the VRAM Requirements for Large Language Models of different parameters size
+##### This script calculates the GPU VRAM Requirements for Large Language Models of different parameters size
 
 
 
