@@ -13,14 +13,14 @@ LLMs VRAM Requirements Calculator
 - `pandas`
 
 
-* VRAM Requirements for Different Precisions
+VRAM Requirements for Different Precisions
 
 When using different precision levels, the memory required per parameter varies:
 
-FP32 (32-bit floating point): 4 bytes per parameter
-FP16 (16-bit floating point): 2 bytes per parameter
-8-bit precision: 1 byte per parameter
-4-bit precision: 0.5 bytes per parameter
+* FP32 (32-bit floating point): 4 bytes per parameter
+* FP16 (16-bit floating point): 2 bytes per parameter
+* 8-bit precision: 1 byte per parameter
+* 4-bit precision: 0.5 bytes per parameter
 
 
 Overhead Factor:
