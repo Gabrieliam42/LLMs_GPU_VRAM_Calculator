@@ -19,6 +19,7 @@
 <br><br>
 
 
+
 VRAM Requirements for Different Precisions
 
 When using different precision levels, the memory required per parameter varies:
