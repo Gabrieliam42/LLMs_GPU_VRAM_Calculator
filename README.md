@@ -20,6 +20,8 @@
 
 <br><br>
 
+![Example](https://imgur.com/a/hjs10qM)
+
 
 
 VRAM Requirements for Different Precisions
