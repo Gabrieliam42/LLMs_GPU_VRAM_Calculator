@@ -20,7 +20,7 @@
 
 <br><br>
 
-[![MasterHead](https://imgur.com/a/hjs10qM)](image_head)
+![MasterHead](https://imgur.com/a/hjs10qM)
 
 
 
