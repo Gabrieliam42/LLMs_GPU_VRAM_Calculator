@@ -1,6 +1,7 @@
 ## LLMs GPU VRAM Requirements Calculator
 
 ##### The script calculates which LLMs (Large Language Models) parameters sizes and quantized versions that fit the user's specified GPU VRAM amount.
+##### You can use the compiled version on Windows: `LLMs_GPU_VRAM_Calculator.exe`
 
 
 
