@@ -11,6 +11,8 @@
 ##### Requirements:
 
 - `pandas`
+- `tk` (tkinter)
+
 
 
 
