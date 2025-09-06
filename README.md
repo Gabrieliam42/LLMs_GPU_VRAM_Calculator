@@ -26,7 +26,9 @@
 
 
 
+![MasterHead](https://imgur.com/a/iHnq6Lp)
 ![MasterHead](https://i.imgur.com/mEoyckM.png)
+
 
 - In the image above you can see that for example for a 13B (13 Billion parameters) LLM you would need a GPU that has: at least 6.96GB free VRAM for a 4-bit version of the model, OR at least 13.93GB VRAM for a 8-bit version of the model, OR at least 27.84GB free VRAM for a 16-bit version of the model(FP16), and so on.
 - For a 4B (4 Billion parameters) LLM you would need a GPU that has: at least 2.14GB VRAM for running the 4-bit version of the model, OR at least 4.29GB VRAM for a 8-bit version of the model, OR at least 8.57GB VRAM for a 16-bit version of the model(FP16), OR at least 17.13GB VRAM for a full 32-bit version of the model(FP32).
