@@ -26,7 +26,7 @@
 
 
 
-![MasterHead](https://imgur.com/GyT2EXf)
+![MasterHead](https://i.imgur.com/GyT2EXf.png)
 ![MasterHead](https://i.imgur.com/mEoyckM.png)
 
 
