@@ -1,6 +1,6 @@
 ## LLMs GPU VRAM Requirements Calculator
 
-##### The script calculates the GPU VRAM Requirements for Large Language Models of different parameters sizes
+##### The script calculates which LLMs (Large Language Models) parameters sizes and quantized versions that fit the user's specified GPU VRAM amount.
 
 
 
@@ -27,17 +27,17 @@
 
 
 ![MasterHead](https://i.imgur.com/GyT2EXf.png)
-![MasterHead](https://i.imgur.com/mEoyckM.png)
 
 
-- In the image above you can see that for example for a 13B (13 Billion parameters) LLM you would need a GPU that has: at least 6.96GB free VRAM for a 4-bit version of the model, OR at least 13.93GB VRAM for a 8-bit version of the model, OR at least 27.84GB free VRAM for a 16-bit version of the model(FP16), and so on.
+- In the image above you can see that the user has inserted 24 in the input (for 24 GPU VRAM) and the script calculated the LLMs versions that are Ok for it.
+- For example a 13B (13 Billion parameters) LLM you would need a GPU that has: at least 6.96GB free VRAM for a 4-bit version of the model, OR at least 13.93GB VRAM for a 8-bit version of the model, OR at least 27.84GB free VRAM for a 16-bit version of the model(FP16), and so on.
 - For a 4B (4 Billion parameters) LLM you would need a GPU that has: at least 2.14GB VRAM for running the 4-bit version of the model, OR at least 4.29GB VRAM for a 8-bit version of the model, OR at least 8.57GB VRAM for a 16-bit version of the model(FP16), OR at least 17.13GB VRAM for a full 32-bit version of the model(FP32).
 
 
 
 VRAM Requirements for Different Precisions
 
-When using different precision levels, the memory required per parameter varies:
+When using different precision levels, the memory required per parameter varies as follows:
 
 * FP32 (32-bit floating point): 4 bytes per parameter
 * FP16 (16-bit floating point): 2 bytes per parameter
