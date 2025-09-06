@@ -14,18 +14,6 @@
 - `tk` (tkinter)
 
 
-
-
-
-<br><br>
-
-
-
-<br><br>
-
-
-
-
 ![MasterHead](https://i.imgur.com/GyT2EXf.png)
 
 
