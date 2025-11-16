@@ -4,7 +4,6 @@
 ##### You can use the compiled version on Windows: `LLMs_GPU_VRAM_Calculator.exe`
 
 
-
 ##### This script has been tested on the Windows environment.
 
 
@@ -43,13 +42,15 @@ Additionally, a 1.15x overhead factor is applied to account for extra memory usa
 
 
 
-<br><br>
-
-
-
-
 
 <br><br>
+
+
+
+
+
+<br><br>
+
 
 
 
