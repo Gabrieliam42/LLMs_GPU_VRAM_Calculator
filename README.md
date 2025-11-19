@@ -25,7 +25,6 @@
 
 VRAM Requirements for Different Precisions
 
-
 When using different precision levels, the memory required per parameter varies as follows:
 
 * FP32 (32-bit floating point): 4 bytes per parameter
