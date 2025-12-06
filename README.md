@@ -13,7 +13,6 @@
 - `tk` (tkinter)
 
 
-
 ![MasterHead](https://i.imgur.com/GyT2EXf.png)
 
 - In the image above you can see that the user has inserted 24 in the input (for 24 GPU VRAM) and the script calculated the LLMs versions that are Ok for it for each parameter size LLM.
