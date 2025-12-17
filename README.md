@@ -41,7 +41,6 @@ Additionally, a 1.15x overhead factor is applied to account for extra memory usa
 
 
 
-
 <br><br>
 
 
@@ -52,10 +51,9 @@ Additionally, a 1.15x overhead factor is applied to account for extra memory usa
 
 
 
-
-
-
-
+[Download Latest Release (v1.0.0)](https://github.com/Gabrieliam42/LLMs_GPU_VRAM_Calculator/releases/tag/1.0.0)
 
 **Script Developer:** Gabriel Mihai Sandu  
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
+
