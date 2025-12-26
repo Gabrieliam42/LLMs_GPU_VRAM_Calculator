@@ -6,7 +6,7 @@
 
 ##### This script has been tested on the Windows environment.
 
-The script version `LLMs_GPU_VRAM_Calculator-CLI.py` is obviously the command line interface version.
+The script version `LLMs_GPU_VRAM_Calculator-CLI.py` is the command line interface version.
 
 
 ##### Requirements:
